@@ -1,3 +1,7 @@
 # Machine-Learning
 Maching Learning in Action
-#一些机器学习的笔记、心得、记录。用Python实现#
+#机器学习的心得及体会#
+
+Update 2018.3.8
+  Add New Algorithm-----KNN
+  
