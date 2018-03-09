@@ -1,4 +1,4 @@
-# Machin -Learning in Action<br />
+# Machine Learning in Action<br />
 -
 <br />
 <br />
